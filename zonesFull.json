@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+  { "type": "Feature", "properties": { "Name": "zona 1", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -57.5746679, -37.9773904, 0.0 ], [ -57.586298, -37.9920028, 0.0 ], [ -57.5782299, -37.9960612, 0.0 ], [ -57.5664282, -37.9814497, 0.0 ], [ -57.5746679, -37.9773904, 0.0 ] ] ] } },
+  { "type": "Feature", "properties": { "Name": "zona 2", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -57.5745392, -37.9912249, 0.0 ], [ -57.5795174, -37.9976169, 0.0 ], [ -57.5664711, -38.0042789, 0.0 ], [ -57.5613213, -37.9979213, 0.0 ], [ -57.5673297, -37.9949115, 0.0 ], [ -57.5634244, -37.9900243, 0.0 ], [ -57.570355, -37.9864645, 0.0 ], [ -57.5745392, -37.9912249, 0.0 ] ] ] } },
+  { "type": "Feature", "properties": { "Name": "zona 3", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -57.5651836, -38.002681, 0.0 ], [ -57.5757837, -38.0156316, 0.0 ], [ -57.568531, -38.0211087, 0.0 ], [ -57.5570726, -38.0067727, 0.0 ], [ -57.5651836, -38.002681, 0.0 ] ] ] } },
+  { "type": "Feature", "properties": { "Name": "zona 4", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -57.5874138, -38.0069841, 0.0 ], [ -57.5757837, -38.0156063, 0.0 ], [ -57.5664711, -38.0042789, 0.0 ], [ -57.5795174, -37.9976169, 0.0 ], [ -57.5874138, -38.0069841, 0.0 ] ] ] } },
+  { "type": "Feature", "properties": { "Name": "zona 5", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -57.5746679, -37.9773904, 0.0 ], [ -57.5664501, -37.9815514, 0.0 ], [ -57.570355, -37.9864645, 0.0 ], [ -57.5634244, -37.9900243, 0.0 ], [ -57.5620079, -37.9883161, 0.0 ], [ -57.5610209, -37.9887897, 0.0 ], [ -57.5519657, -37.9776272, 0.0 ], [ -57.5681019, -37.9694742, 0.0 ], [ -57.5746679, -37.9773904, 0.0 ] ] ] } },
+  { "type": "Feature", "properties": { "Name": "zona 6", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -57.5680591, -37.9694212, 0.0 ], [ -57.5441123, -37.9815997, 0.0 ], [ -57.5399495, -37.9588649, 0.0 ], [ -57.5537683, -37.9519281, 0.0 ], [ -57.5680591, -37.9694212, 0.0 ] ] ] } },
+  { "type": "Feature", "properties": { "Name": "zona 8 a pie", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -57.5673297, -37.9949115, 0.0 ], [ -57.5575018, -37.9997813, 0.0 ], [ -57.5520515, -37.993288, 0.0 ], [ -57.5620079, -37.9883161, 0.0 ], [ -57.5673297, -37.9949115, 0.0 ] ] ] } },
+  { "type": "Feature", "properties": { "Name": "zona 7", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ 
+    [ 
+      [ -57.5519657, -37.9776272, 0.0 ], 
+      [ -57.5610209, -37.9887897, 0.0 ], 
+      [ -57.5520515, -37.993288, 0.0 ],
+      [ -57.5493479, -37.9901087, 0.0 ],
+      [ -57.5453138, -37.9920366, 0.0 ],
+      [ -57.5441123, -37.9815997, 0.0 ],
+      [ -57.5519657, -37.9776272, 0.0 ]
+    ]
+  ] } }
+  ]
+}
